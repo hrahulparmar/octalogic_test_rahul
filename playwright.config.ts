@@ -40,7 +40,7 @@ export default defineConfig({
         viewport: null,
         launchOptions: {
           args: ['--start-maximized'],
-          headless: false,
+          headless: true,
         },
       },
     },
