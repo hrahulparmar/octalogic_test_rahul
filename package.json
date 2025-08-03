@@ -1,0 +1,23 @@
+{
+  "name": "octalogic_test_rahul",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrahulparmar/octalogic_test_rahul.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrahulparmar/octalogic_test_rahul/issues"
+  },
+  "homepage": "https://github.com/hrahulparmar/octalogic_test_rahul#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.1.0",
+    "typescript": "^5.9.2"
+  }
+}
